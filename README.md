@@ -1,5 +1,7 @@
 # Azure-Devops-Terraform - Azure
-Neste repositório, foi criado uma infraestrutura básica na Azure, utilizando o  terraform.
+Neste repositório, foi criado uma infraestrutura básica na Azure, utilizando o terraform.
+
+Veja a estrutura dos arquivos e os "imports" utilizados nos arquivos terraform.
 
 Recursos criados após execução:
 
@@ -7,7 +9,7 @@ Recursos criados após execução:
 - Subnet
 - VM Linux
 
-Recursos já criados:
+Recursos já criados no portal Azure manualmente:
 
 - Resource Group
 - SSH-Key
