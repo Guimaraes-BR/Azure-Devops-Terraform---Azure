@@ -1,4 +1,4 @@
-# Azure-Devops-Terraform---Azure
+# Azure-Devops-Terraform - Azure
 Neste repositório, foi criado uma infraestrutura básica na Azure, utilizando o Azure Devops com terraform.
 
 Recursos criados:
