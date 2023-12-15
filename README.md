@@ -1,5 +1,5 @@
 # Azure-Devops-Terraform - Azure
-Neste repositório, foi criado uma infraestrutura básica na Azure, utilizando o terraform.
+Neste repositório, foi criado uma infraestrutura básica na Azure, utilizando o terraform salvando o seu "tfstate" em um Storage Account.
 
 Veja a estrutura dos arquivos e os "imports" utilizados nos arquivos terraform.
 
