@@ -11,3 +11,7 @@ Recursos já criados:
 
 - Resource Group
 - SSH-Key
+
+# Observações
+
+Utilize a pasta "infraestrutura" como repositório no Azure Devops.
